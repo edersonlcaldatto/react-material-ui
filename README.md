@@ -1,5 +1,6 @@
-#Simple project using some components from Material-UI library
-####
+# Simple project using some components from Material-UI library
+
+# ---------------------------------------- #
 
 # Getting Started with Create React App
 
